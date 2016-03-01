@@ -1,0 +1,11 @@
+name: MBSupport
+main: matthewb987.MBBANS
+version: 1.1
+author: matthewb987
+commands:
+  hello:
+    description: say hello
+    usage: /<command>
+  support:
+    description: Get Staff Attention
+    usage: /<command>
